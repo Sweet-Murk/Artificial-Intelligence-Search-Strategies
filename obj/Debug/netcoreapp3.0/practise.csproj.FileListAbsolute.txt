@@ -1,0 +1,11 @@
+C:\Users\dima\Desktop\лекции4-2\practise\obj\Debug\netcoreapp3.0\practise.csprojAssemblyReference.cache
+C:\Users\dima\Desktop\лекции4-2\practise\obj\Debug\netcoreapp3.0\practise.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\лекции4-2\practise\obj\Debug\netcoreapp3.0\practise.AssemblyInfo.cs
+C:\Users\dima\Desktop\лекции4-2\practise\bin\Debug\netcoreapp3.0\practise.exe
+C:\Users\dima\Desktop\лекции4-2\practise\bin\Debug\netcoreapp3.0\practise.deps.json
+C:\Users\dima\Desktop\лекции4-2\practise\bin\Debug\netcoreapp3.0\practise.runtimeconfig.json
+C:\Users\dima\Desktop\лекции4-2\practise\bin\Debug\netcoreapp3.0\practise.runtimeconfig.dev.json
+C:\Users\dima\Desktop\лекции4-2\practise\bin\Debug\netcoreapp3.0\practise.dll
+C:\Users\dima\Desktop\лекции4-2\practise\bin\Debug\netcoreapp3.0\practise.pdb
+C:\Users\dima\Desktop\лекции4-2\practise\obj\Debug\netcoreapp3.0\practise.dll
+C:\Users\dima\Desktop\лекции4-2\practise\obj\Debug\netcoreapp3.0\practise.pdb
