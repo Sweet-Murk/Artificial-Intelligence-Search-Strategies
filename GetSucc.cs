@@ -180,23 +180,5 @@ class GetSucc
             return false;
         return true;
     }
-
-     public ArrayList GetSussessor_Reverse(string State)
-    {
-        ArrayList Result = new ArrayList();
-        //if (State % 2 == 0)
-        //{
-          //  int P = State / 2 - 1;
-            //Result.Add(P);
-        //}
-        //else 
-        //{
-          //  int Sib = State + 1;
-            //Result.Add(Sib / 2 - 1);
-                       
-        //}
-       
-        return Result;  
-    }
-}//end class
+}
  

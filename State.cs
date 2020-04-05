@@ -2,14 +2,12 @@ using System.Globalization;
 using System.Collections;
 using System;
 
-class State
+public class State
 {
     public string[] left_shore = new string[6];
     public string[] boat = new string[3];
     public string[] right_shore = new string[6];
     public bool boat_state;
-
-    // another form of Node Constructor which accepts only the State;
  
     public State(string[] left_shore, string[] boat, string[] right_shore, bool boat_state)
     {
